@@ -1,0 +1,12 @@
+{
+  "name": "NodeApi",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node Server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.12.3",
+    "mongoose": "^4.3.7"
+  }
+}
